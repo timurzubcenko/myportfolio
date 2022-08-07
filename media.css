@@ -118,6 +118,7 @@
 
     .header_menu.active {
         top: 0;
+        overflow-x: auto;
     }
 
     .header_list {
